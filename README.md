@@ -6,8 +6,8 @@
 2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone 
-    cd b0mb3
+    git clone https://github.com/FIFIFiSKA/RUSHER_DDOS 
+    cd RUSHER_DDOS
 4. Установите все необходимые библиотеки и запустите скрипт:
      ```bash
      pip install -r requirements.txt
